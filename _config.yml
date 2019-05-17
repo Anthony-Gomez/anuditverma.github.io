@@ -26,10 +26,10 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "https://anthony-gomez.github.io/share/cv.pdf"
+  CV : "https://anthony-gomez.github.io/share/cv.pdf"
   Medium blog : "https://medium.com/@Anthony_Gomez"
   Github : "https://github.com/Anthony-Gomez"
-  Linkedin : "https://www.linkedin.com/in/anthonygomez06/"
+  Linkedin : "https://www.linkedin.com/in/anthonygomez06"
   CV: "files/cv.pdf"
 #  Tags: "tags"
 
