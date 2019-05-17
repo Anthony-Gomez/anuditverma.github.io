@@ -26,19 +26,10 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Books: "books"
-  About Me: "aboutme"
-  Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - ResearchGate Profile: "https://www.researchgate.net/profile/Anudit_Verma"
-  Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
+  CV: "https://anthony-gomez.github.io/share/cv.pdf"
+  Medium blog : "https://medium.com/@Anthony_Gomez"
+  Github : "https://github.com/Anthony-Gomez"
+  Linkedin : "https://www.linkedin.com/in/anthonygomez06/"
   CV: "files/cv.pdf"
 #  Tags: "tags"
 
